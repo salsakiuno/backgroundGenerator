@@ -4,4 +4,6 @@ This is part of a Udemy course From Zero to Mastery https://www.udemy.com/course
 
 This is mainly to practice applying javascript to html 
 
-GitHub page
+# GitHub page
+
+ https://salsakiuno.github.io/backgroundGenerator/
