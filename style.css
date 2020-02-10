@@ -1,0 +1,27 @@
+body {
+  font-family: Courier New;
+  background:  linear-gradient(to right, #9fb8ad, #1fc8db);
+}
+
+h1 {
+  font-size: xx-large;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+}
